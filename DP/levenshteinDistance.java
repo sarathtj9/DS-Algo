@@ -1,5 +1,6 @@
 package net.javaguides.springboot.springsecurity.AlgoExpert;
 
+//space:O(nm)// time:O(nm)
 public class levenshteinDistance {
 
     public static void main(String[] args) {
