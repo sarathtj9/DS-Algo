@@ -1,4 +1,3 @@
-# New-Project
-Basic Project
+# DS-Algo
 
-Hello world.
+
