@@ -2,7 +2,7 @@ package net.javaguides.springboot.springsecurity.LeetCode;
 
 import java.util.HashSet;
 import java.util.Set;
-
+//Time: O(S)
 public class UniqueMorseCode {
 
     public static void main(String[] args) {
